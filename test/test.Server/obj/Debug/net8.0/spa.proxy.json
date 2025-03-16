@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:62703",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.Server\\..\\test.client",
+"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.Server\\..\\test.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

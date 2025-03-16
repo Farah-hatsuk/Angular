@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Angular\\test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\test\\test.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\angular\\test\\test.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|solutionrelative:test.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\test\\test.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|solutionrelative:test.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\test\\test.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|solutionrelative:test.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\test\\test.client\\src\\app\\prodect\\prodect.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\angular\\test\\test.client\\src\\app\\prodect\\prodect.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|solutionrelative:test.client\\src\\app\\prodect\\prodect.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\test\\test.client\\src\\app\\register\\register.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|solutionrelative:test.client\\src\\app\\register\\register.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\test\\test.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\angular\\test\\test.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|solutionrelative:test.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\test\\test.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\angular\\test\\test.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|solutionrelative:test.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\angular\\test\\test.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|solutionrelative:test.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\angular\\test\\test.client\\src\\app\\register\\register.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|solutionrelative:test.client\\src\\app\\register\\register.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\angular\\test\\test.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|solutionrelative:test.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\test\\test.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\angular\\test\\test.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|solutionrelative:test.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\test\\test.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\angular\\test\\test.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|solutionrelative:test.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\test\\test.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|c:\\users\\orange\\desktop\\angular\\test\\test.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{D35E6673-FD37-48AE-87FA-F265779CB74D}|test.client\\test.client.esproj|solutionrelative:test.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
@@ -54,11 +54,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "prodect.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\prodect\\prodect.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\prodect\\prodect.component.html",
               "RelativeDocumentMoniker": "test.client\\src\\app\\prodect\\prodect.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\prodect\\prodect.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\prodect\\prodect.component.html",
               "RelativeToolTip": "test.client\\src\\app\\prodect\\prodect.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -69,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "home.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\home\\home.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\home\\home.component.html",
               "RelativeDocumentMoniker": "test.client\\src\\app\\home\\home.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\home\\home.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\home\\home.component.html",
               "RelativeToolTip": "test.client\\src\\app\\home\\home.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -80,11 +80,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "navbar.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\navbar\\navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\navbar\\navbar.component.html",
               "RelativeDocumentMoniker": "test.client\\src\\app\\navbar\\navbar.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\navbar\\navbar.component.html",
               "RelativeToolTip": "test.client\\src\\app\\navbar\\navbar.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -93,11 +93,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "app-routing.module.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\app-routing.module.ts",
               "RelativeDocumentMoniker": "test.client\\src\\app\\app-routing.module.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\app-routing.module.ts",
               "RelativeToolTip": "test.client\\src\\app\\app-routing.module.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
@@ -106,81 +106,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "register.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\register\\register.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\register\\register.component.html",
               "RelativeDocumentMoniker": "test.client\\src\\app\\register\\register.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\register\\register.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\register\\register.component.html",
               "RelativeToolTip": "test.client\\src\\app\\register\\register.component.html",
               "ViewState": "AgIAAFQAAAAAAAAAAAAAAGAAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-12T12:33:46.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T12:33:46.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "login.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\login\\login.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\login\\login.component.html",
               "RelativeDocumentMoniker": "test.client\\src\\app\\login\\login.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\login\\login.component.html",
               "RelativeToolTip": "test.client\\src\\app\\login\\login.component.html",
               "ViewState": "AgIAAA8AAAAAAAAAAAAuwCEAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-12T12:39:49.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T12:39:49.266Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "app.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "test.client\\src\\app\\app.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\app.component.html",
               "RelativeToolTip": "test.client\\src\\app\\app.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-12T12:42:05.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T12:42:05.795Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\index.html",
               "RelativeDocumentMoniker": "test.client\\src\\index.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\index.html",
               "RelativeToolTip": "test.client\\src\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-12T12:51:42.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T12:51:42.283Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "app.component.spec.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\app.component.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\app.component.spec.ts",
               "RelativeDocumentMoniker": "test.client\\src\\app\\app.component.spec.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\app.component.spec.ts",
               "RelativeToolTip": "test.client\\src\\app\\app.component.spec.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-12T12:42:03.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T12:42:03.424Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "footer.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\footer\\footer.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\footer\\footer.component.html",
               "RelativeDocumentMoniker": "test.client\\src\\app\\footer\\footer.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\src\\app\\footer\\footer.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\src\\app\\footer\\footer.component.html",
               "RelativeToolTip": "test.client\\src\\app\\footer\\footer.component.html",
               "ViewState": "AgIAAFAAAAAAAAAAAAAuwLgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-12T12:46:16.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T12:46:16.924Z"
             }
           ]
         }

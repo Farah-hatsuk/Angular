@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:54092",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\Task2.Server\\..\\task2.client",
+"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\Task2.Server\\..\\task2.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

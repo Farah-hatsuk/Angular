@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "/x9h7FR/4Hug5wkscye+qrepPydt+8IrJCdK8YklY8A=",
+  "Hash": "CH/TNUIhK+/WERwO6eeui8YMjPgxYb52GpLvMGEsvJE=",
   "Source": "test.Server",
   "BasePath": "_content/test.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\test\\test.client\\test.client.esproj",
+      "Identity": "C:\\Users\\Orange\\Desktop\\Angular\\test\\test.client\\test.client.esproj",
       "Version": 2,
       "Source": "test.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

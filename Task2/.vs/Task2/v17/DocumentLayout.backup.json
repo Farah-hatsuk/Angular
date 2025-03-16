@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\task2\\task2.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\angular\\task2\\task2.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\products\\products.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\task2\\task2.client\\src\\app\\product-details\\product-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\angular\\task2\\task2.client\\src\\app\\product-details\\product-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\product-details\\product-details.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\task2\\task2.client\\src\\app\\product-details\\product-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\angular\\task2\\task2.client\\src\\app\\product-details\\product-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\product-details\\product-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\task2\\task2.client\\src\\app\\service\\my-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\angular\\task2\\task2.client\\src\\app\\service\\my-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\service\\my-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\task2\\task2.client\\src\\app\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\angular\\task2\\task2.client\\src\\app\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\products\\products.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\task2\\task2.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\angular\\task2\\task2.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\task2\\task2.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\angular\\task2\\task2.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\task2\\task2.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\angular\\task2\\task2.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\task2\\task2.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\angular\\task2\\task2.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\task2\\task2.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\angular\\task2\\task2.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\asp.net core mvc1\\task2\\task2.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|c:\\users\\orange\\desktop\\angular\\task2\\task2.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F77C48C6-7B3C-4495-9E7A-2FEE9AF2EAA5}|task2.client\\task2.client.esproj|solutionrelative:task2.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -60,24 +60,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "product-details.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\product-details\\product-details.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\product-details\\product-details.component.html",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\product-details\\product-details.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\product-details\\product-details.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\product-details\\product-details.component.html",
               "RelativeToolTip": "task2.client\\src\\app\\product-details\\product-details.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-13T17:40:01.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T17:40:01.297Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "products.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\products\\products.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\products\\products.component.html",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\products\\products.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\products\\products.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\products\\products.component.html",
               "RelativeToolTip": "task2.client\\src\\app\\products\\products.component.html",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-13T17:26:19.618Z",
               "EditorCaption": ""
@@ -86,118 +85,109 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "product-details.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\product-details\\product-details.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\product-details\\product-details.component.ts",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\product-details\\product-details.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\product-details\\product-details.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\product-details\\product-details.component.ts",
               "RelativeToolTip": "task2.client\\src\\app\\product-details\\product-details.component.ts",
               "ViewState": "AgIAAAkAAAAAAAAAAAAuwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T17:32:21.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T17:32:21.782Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "products.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\products\\products.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\products\\products.component.ts",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\products\\products.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\products\\products.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\products\\products.component.ts",
               "RelativeToolTip": "task2.client\\src\\app\\products\\products.component.ts",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T16:41:43.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T16:41:43.132Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "my-service.service.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\service\\my-service.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\service\\my-service.service.ts",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\service\\my-service.service.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\service\\my-service.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\service\\my-service.service.ts",
               "RelativeToolTip": "task2.client\\src\\app\\service\\my-service.service.ts",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T13:47:38.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T13:47:38.535Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "category.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\category\\category.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\category\\category.component.html",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\category\\category.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\category\\category.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\category\\category.component.html",
               "RelativeToolTip": "task2.client\\src\\app\\category\\category.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-13T15:30:43.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T15:30:43.692Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "app-routing.module.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\app-routing.module.ts",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\app-routing.module.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\app-routing.module.ts",
               "RelativeToolTip": "task2.client\\src\\app\\app-routing.module.ts",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T13:42:11.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T13:42:11.855Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "category.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\category\\category.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\category\\category.component.ts",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\category\\category.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\category\\category.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\category\\category.component.ts",
               "RelativeToolTip": "task2.client\\src\\app\\category\\category.component.ts",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-13T14:01:38.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T14:01:38.423Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "navbar.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\navbar\\navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\navbar\\navbar.component.html",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\navbar\\navbar.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\navbar\\navbar.component.html",
               "RelativeToolTip": "task2.client\\src\\app\\navbar\\navbar.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-13T13:28:11.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T13:28:11.308Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "app.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "task2.client\\src\\app\\app.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\app\\app.component.html",
               "RelativeToolTip": "task2.client\\src\\app\\app.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-13T13:29:16.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T13:29:16.469Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\index.html",
               "RelativeDocumentMoniker": "task2.client\\src\\index.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\ASP.NET Core MVC1\\Task2\\task2.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Task2\\task2.client\\src\\index.html",
               "RelativeToolTip": "task2.client\\src\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-13T13:29:05.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T13:29:05.919Z"
             }
           ]
         }
