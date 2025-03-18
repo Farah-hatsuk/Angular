@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { MyserviceService } from '../service/myservice.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-registration',
@@ -8,7 +9,7 @@ import { MyserviceService } from '../service/myservice.service';
   styleUrl: './registration.component.css'
 })
 export class RegistrationComponent {
-  constructor(private _myser: MyserviceService) { }
+  constructor(private _myser: MyserviceService, private _route: Router) { }
 
   ngOnIni() {
 
@@ -16,8 +17,10 @@ export class RegistrationComponent {
 
   
   postDataUser(data: any) {
-    this._myser.postRegistrationUser(data).subscribe(() => {
-
+    let registration = this._myser.postRegistrationUser(data).subscribe(() => {
+      if (registration) {
+        this._route.navigate(["/Login"])
+      }
     } )
 
   }
