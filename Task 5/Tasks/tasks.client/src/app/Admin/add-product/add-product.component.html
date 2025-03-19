@@ -1,0 +1,25 @@
+<p>add-product works!</p>
+
+
+
+
+<form #product="ngForm" (ngSubmit)="addProduct(product.value)">
+  <div class="form-group mt-3">
+    <label for="name">Name</label>
+    <input type="text" class="form-control" id="name" name="name" placeholder="Category name" ngModel>
+  </div>
+  <div class="form-group mt-3">
+    <label for="avatar" name="avatar">image</label>
+    <input type="file" class="form-control" id="avatar" name="avatar" ngModel>
+
+  </div>
+  <div class="form-group mt-3">
+    <label for="categoryId" class="mt-3" name="categoryId">Category</label>
+
+    <select class="form-select " aria-label="Default select example" name="categoryId" id="categoryId" ngModel>
+
+      <option *ngFor="let item of categories" value="{{item.id}}">{{item.name}}</option>
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary mt-3">add product</button>
+</form>

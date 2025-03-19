@@ -1,0 +1,25 @@
+<p>admin-category works!</p>
+
+
+<a  routerLink="/Dashboard/addCategory"> Add category</a>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Id</th>
+      <th scope="col">Name</th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of dataContainer">
+      <th scope="row">3</th>
+      <td>{{ item.id }}</td>
+      <td>{{ item.name }}</td>
+      <td><a routerLink="/Dashboard/editCategory/{{item.id}}">Edit</a></td>
+      <td><a routerLink="/product/{{item.id}}">see the products</a></td>
+
+    </tr>
+  </tbody>
+</table>

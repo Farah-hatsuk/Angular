@@ -1,0 +1,38 @@
+<p>products works!</p>
+
+
+<!--<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Id</th>
+      <th scope="col">Name</th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let product of dataProduct">
+      <th scope="row">3</th>
+      <td>{{ product.id }}</td>
+      <td>{{ product.name }}</td>
+      <td><a routerLink="/productDetalis/{{product.id}}">details</a></td>
+
+
+    </tr>
+  </tbody>
+</table>-->
+<div class="product">
+  <div *ngFor="let product of dataProduct">
+    <div class="card text-dark bg-light mb-3" style="width: 18rem;">
+      <img src="{{product.img}}" class="card-img-top" alt="img">
+      <div class="card-body">
+        <h5 class="card-title">{{ product.id }}</h5>
+        <p class="card-text">{{ product.name }}</p>
+        <a style="color:black" routerLink="/productDetalis/{{product.id}}">details</a>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
