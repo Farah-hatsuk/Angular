@@ -12,6 +12,7 @@ import { AddCategoryComponent } from './Admin/add-category/add-category.componen
 import { AddProductComponent } from './Admin/add-product/add-product.component';
 import { EditCategoryComponent } from './Admin/edit-category/edit-category.component';
 import { EditProductComponent } from './Admin/edit-product/edit-product.component';
+import { ProfileComponent } from './profile/profile.component';
 
 
 
@@ -22,6 +23,7 @@ const routes: Routes = [
 
   { path: "Registration", component: RegistrationComponent },
   { path: "Login", component: LoginComponent },
+  { path: "Profile", component: ProfileComponent },
   
 
   {

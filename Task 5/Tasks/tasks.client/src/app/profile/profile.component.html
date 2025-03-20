@@ -1,0 +1,25 @@
+<p>profile works!</p>
+
+
+<div class="profile-container">
+
+  <h2>User Profile</h2>
+
+  <div>
+    <label for="username">Username</label>
+    <input type="text" id="username" [(ngModel)]="user.name"  />
+  </div>
+
+  <div>
+    <label for="password">Password</label>
+    <input type="password" id="password" [(ngModel)]="user.password" />
+  </div>
+
+  <button (click)="editProfile()">Edit Profile</button>
+ 
+
+  <app-edit-profile *ngIf="isEditModalVisible"
+                    [User]="user"
+                    (editUser)="onUserUpdated($event)"></app-edit-profile>
+
+</div>

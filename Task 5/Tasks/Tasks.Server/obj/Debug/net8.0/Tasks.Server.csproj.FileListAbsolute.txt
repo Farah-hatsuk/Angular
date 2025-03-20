@@ -76,3 +76,43 @@ C:\Users\Orange\Desktop\Angular1\Tasks\Tasks.Server\obj\Debug\net8.0\refint\Task
 C:\Users\Orange\Desktop\Angular1\Tasks\Tasks.Server\obj\Debug\net8.0\Tasks.Server.pdb
 C:\Users\Orange\Desktop\Angular1\Tasks\Tasks.Server\obj\Debug\net8.0\Tasks.Server.genruntimeconfig.cache
 C:\Users\Orange\Desktop\Angular1\Tasks\Tasks.Server\obj\Debug\net8.0\ref\Tasks.Server.dll
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\bin\Debug\net8.0\Tasks.Server.staticwebassets.endpoints.json
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\bin\Debug\net8.0\Tasks.Server.exe
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\bin\Debug\net8.0\Tasks.Server.deps.json
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\bin\Debug\net8.0\Tasks.Server.runtimeconfig.json
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\bin\Debug\net8.0\Tasks.Server.dll
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\bin\Debug\net8.0\Tasks.Server.pdb
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\Tasks.Server.csproj.AssemblyReference.cache
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\Tasks.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\Tasks.Server.AssemblyInfoInputs.cache
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\Tasks.Server.AssemblyInfo.cs
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\Tasks.Server.csproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\Tasks.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\Tasks.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\Tasks.Server.sourcelink.json
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\scopedcss\bundle\Tasks.Server.styles.css
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\staticwebassets\msbuild.Tasks.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\staticwebassets\msbuild.Tasks.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.Tasks.Server.props
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tasks.Server.props
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tasks.Server.props
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\Tasks.Se.A53E6B04.Up2Date
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\Tasks.Server.dll
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\refint\Tasks.Server.dll
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\Tasks.Server.pdb
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\Tasks.Server.genruntimeconfig.cache
+C:\Users\Orange\Desktop\Angular\Task 5\Tasks\Tasks.Server\obj\Debug\net8.0\ref\Tasks.Server.dll

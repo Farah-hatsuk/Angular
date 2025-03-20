@@ -16,7 +16,12 @@ export class LoginComponent {
     this._myser.getUserLogin().subscribe((data: any) => {
       let userData = data.find((x: any) => x.Email == logedUser.Email && x.password == logedUser.password);
 
+
+
       if (userData) {
+
+        localStorage.setItem('loggedInUser', JSON.stringify(userData));
+
         alert("Loging Successfully")
         this._route.navigate(["/category"])
       } else {

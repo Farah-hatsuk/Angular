@@ -41,6 +41,10 @@ export class MyServiceService {
     return this._http.get("https://67cea6ee125cd5af757b6514.mockapi.io/Users")
   }
 
+ 
+
+
+
 
   //add category + products
 
@@ -72,6 +76,14 @@ export class MyServiceService {
 
   getProductId(id: any) {
     return this._http.get(`https://67cd64b6dd7651e464ee3d63.mockapi.io/products/${id}`)
+  }
+
+
+
+  //profil + edit
+
+  updateUserLogin(id: any, data: any) {
+    return this._http.put(`https://67cea6ee125cd5af757b6514.mockapi.io/Users/${id}`, data)
   }
 
 
