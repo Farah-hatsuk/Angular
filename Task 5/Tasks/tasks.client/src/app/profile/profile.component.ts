@@ -15,7 +15,7 @@ export class ProfileComponent {
   isEditModalVisible: boolean = false;
 
 
-  ngOnInit(): void {
+  ngOnInit() {
     const loggedInUser = localStorage.getItem('loggedInUser');
     if (loggedInUser) {
       const userInfo = JSON.parse(loggedInUser);
