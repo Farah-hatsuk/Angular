@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "DGp6TR258AaXxjH1L1jHP7WGr8Gh1TILncyCVqIzTFI=",
+  "Source": "23_3_2025.Server",
+  "BasePath": "_content/23_3_2025.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\Desktop\\Angular1\\23_3_2025\\23_3_2025.client\\23_3_2025.client.esproj",
+      "Version": 2,
+      "Source": "23_3_2025.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,22 @@
+<p>add-voucher works!</p>
+
+<form #voucher="ngForm" (ngSubmit)="addVoucher(voucher.value)">
+
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">name of voucher</label>
+    <input type="email" class="form-control" name="name" ngModel>
+
+  </div>
+
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">price of voucher</label>
+    <input type="text" class="form-control" name="price" ngModel>
+  </div>
+
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">quantity of voucher</label>
+    <input type="number" class="form-control" name="quantity" ngModel>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>

@@ -1,11 +1,19 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs';
+import { BehaviorSubject, Observable } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
 })
 export class MyServiceService {
+
+  //private messageSource = new BehaviorSubject<string>('Hello, Angular!');
+
+  //currentMessage = this.messageSource.asObservable();
+
+  //changeMessage(newMessage: string) {
+  //  this.messageSource.next(newMessage);
+  //}
 
   constructor(private _http: HttpClient) { }
 

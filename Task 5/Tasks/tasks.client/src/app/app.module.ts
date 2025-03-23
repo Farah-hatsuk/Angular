@@ -24,6 +24,8 @@ import { EditCategoryComponent } from './Admin/edit-category/edit-category.compo
 import { EditProductComponent } from './Admin/edit-product/edit-product.component';
 import { ProfileComponent } from './profile/profile.component';
 import { EditProfileComponent } from './edit-profile/edit-profile.component';
+import { ParentComponent } from './parent/parent.component';
+import { ChildComponent } from './child/child.component';
 
 @NgModule({
   declarations: [
@@ -45,7 +47,9 @@ import { EditProfileComponent } from './edit-profile/edit-profile.component';
                     EditCategoryComponent,
                     EditProductComponent,
                     ProfileComponent,
-                    EditProfileComponent
+                    EditProfileComponent,
+                    ParentComponent,
+                    ChildComponent
   ],
   imports: [
     BrowserModule, HttpClientModule, FormsModule,
